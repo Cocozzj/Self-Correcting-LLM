@@ -1,0 +1,10 @@
+# Self-Correcting-LLM
+
+## Paper List
+[1] Self-correcting LLM-controlled Diffusion Models [Github](https://self-correcting-llm-diffusion.github.io/)
+
+[2] Self-Correcting Self-Consuming Loops for Generative Model Training [paper](https://arxiv.org/pdf/2402.07087)
+
+[3] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
+
+[4] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
