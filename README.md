@@ -8,3 +8,5 @@
 [3] GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing [paper](https://arxiv.org/pdf/2407.05600)
 
 [4] GG-Editor: Locally Editing 3D Avatars with Multimodal Large Language Model Guidance [paper](https://openreview.net/pdf?id=31rrsYnriG)
+
+[5] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper] (https://arxiv.org/pdf/2409.02653)
