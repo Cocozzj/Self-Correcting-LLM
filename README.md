@@ -11,4 +11,7 @@
 
 [5] Skip-and-Play: Depth-Driven Pose-Preserved Image Generation for Any Objects [paper](https://arxiv.org/pdf/2409.02653)
 
-[6] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535)
+[6] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models [paper](https://arxiv.org/pdf/2409.16535) [github](https://github.com/deepaksridhar/promptsliders?tab=readme-ov-file)
+
+[7] Concept Sliders [paper](https://github.com/rohitgandikota/sliders)
+
